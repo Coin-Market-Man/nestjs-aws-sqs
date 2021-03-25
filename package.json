@@ -1,8 +1,7 @@
 {
-  "name": "nestjs-aws-sqs",
+  "name": "@coin-market-man/sqs",
   "version": "0.0.1",
   "description": "An AWS SQS module for NestJS",
-  "author": "Yann Kaiser",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
