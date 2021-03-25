@@ -1,6 +1,6 @@
 {
   "name": "@coin-market-man/sqs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An AWS SQS module for NestJS",
   "license": "MIT",
   "main": "dist/index.js",
@@ -50,5 +50,12 @@
     "ts-node": "^8.6.2",
     "tsconfig-paths": "^3.9.0",
     "typescript": "^3.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coin-Market-Man/sqs.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
